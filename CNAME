@@ -1,1 +1,3 @@
-weather-app.mattheaven.me
+Type: CNAME
+Host: `weather-app`
+Value: `mattheaven.github.io`
